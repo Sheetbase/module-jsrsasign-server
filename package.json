@@ -1,0 +1,20 @@
+{
+	"name": "@sheetbase/jsrsasign-server",
+	"type": "module",
+	"version": "8.0.12",
+	"description": "Jsrsasign for Google apps script.",
+	"author": "Sheetbase",
+	"homepage": "https://sheetbase.net",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sheetbase/module-jsrsasign-server.git"
+	},
+	"bugs": {
+		"url": "https://github.com/sheetbase/module-jsrsasign-server/issues"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"@types/google-apps-script": "0.0.28"
+	}
+}
