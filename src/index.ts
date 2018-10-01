@@ -1,5 +1,5 @@
-declare const jsrsasignExports: {(): any};
-const jsrsasign = jsrsasignExports();
+declare const jsrsasignModuleExports: {(): any};
+const jsrsasign = jsrsasignModuleExports();
 const Jsrsasign = jsrsasign;
 
 export { jsrsasign, Jsrsasign };

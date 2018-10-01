@@ -10,8 +10,8 @@
  *
  */
  
-declare const jsrsasignExports: {(): any};
-const jsrsasign = jsrsasignExports();
+declare const jsrsasignModuleExports: {(): any};
+const jsrsasign = jsrsasignModuleExports();
 const Jsrsasign = jsrsasign;
 
 for (const key of Object.keys(jsrsasign)) {
