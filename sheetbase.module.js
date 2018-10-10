@@ -6,8 +6,8 @@ var module = module || { exports: exports };
  * Export name: Jsrsasign
  * Description: Jsrsasign for Google apps script.
  * Version: 8.0.12-1
- * Author: Sheetbase
- * Homepage: https://sheetbase.net
+ * Author: Kenji Urushima
+ * Homepage: http://kjur.github.io/jsrsasign/
  * License: MIT
  * Repo: https://github.com/sheetbase/module-jsrsasign-server.git
  */
