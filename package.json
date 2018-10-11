@@ -1,7 +1,7 @@
 {
 	"name": "@sheetbase/jsrsasign-server",
 	"type": "module",
-	"version": "8.0.12-1",
+	"version": "8.0.12-2",
 	"description": "Jsrsasign for Google apps script.",
 	"author": "Kenji Urushima",
 	"homepage": "http://kjur.github.io/jsrsasign/",

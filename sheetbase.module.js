@@ -5,7 +5,7 @@ var module = module || { exports: exports };
  * Name: @sheetbase/jsrsasign-server
  * Export name: Jsrsasign
  * Description: Jsrsasign for Google apps script.
- * Version: 8.0.12-1
+ * Version: 8.0.12-2
  * Author: Kenji Urushima
  * Homepage: http://kjur.github.io/jsrsasign/
  * License: MIT
@@ -326,7 +326,7 @@ var module = module || { exports: exports };
 /*<sheetbase>*/
 	return moduleExports;
 }
-exports.Jsrsasign = Jsrsasign;
+exports.JsrsasignModule = JsrsasignModule;
 /*</sheetbase>*/
 // add to the global namespace
 var proccess = proccess || this;

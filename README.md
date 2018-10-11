@@ -2,7 +2,7 @@
 
 Jsrsasign for Google apps script.
 
-<!-- <content> -->
+  <!-- <content> -->
 
 [![License][license_badge]][license_url] [![clasp][clasp_badge]][clasp_url] [![Support me on Patreon][patreon_badge]][patreon_url] [![PayPal][paypal_donate_badge]][paypal_donate_url] [![Ask me anything][ask_me_badge]][ask_me_url]
 
@@ -49,7 +49,7 @@ Homepage: http://kjur.github.io/jsrsasign/
 
 **@sheetbase/jsrsasign-server** is released under the [MIT](https://github.com/sheetbase/module-jsrsasign-server/blob/master/LICENSE) license.
 
-<!-- <footer> -->
+  <!-- <footer> -->
 
 [license_badge]: https://img.shields.io/github/license/mashape/apistatus.svg
 [license_url]: https://github.com/sheetbase/module-jsrsasign-server/blob/master/LICENSE
