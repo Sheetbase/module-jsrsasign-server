@@ -1,5 +1,6 @@
-declare const JsrsasignModule: {(): any};
-var Jsrsasign = Jsrsasign || JsrsasignModule();
+import { JsrsasignModule } from '../index';
+
+const Jsrsasign = JsrsasignModule();
 
 export function example1(): void {
   const base64: string = Jsrsasign.utf8tob64('hello');
