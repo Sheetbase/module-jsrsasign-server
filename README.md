@@ -1,3 +1,7 @@
+# ⛔️ DEPRECATED
+
+Since @sheetbase/app-scripts now uses Rollup for module bundling, it is recommended to use the official module.
+
 # Sheetbase Module: @sheetbase/jsrsasign-server
 
 Jsrsasign for Google apps script.
